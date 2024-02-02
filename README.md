@@ -3,9 +3,9 @@
 
 - 🌱 I’m currently learning **Web Development, Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://explore-intellect.com/](https://explore-intellect.com/projects)
+- 👨‍💻 All of my projects are available at [https://explore-intellect.com/projects](https://explore-intellect.com/projects)
 
-- 📝 I regularly write articles on [https://explore-intellect.com/blogs](https://explore-intellect.com/blogs)
+- 📝 I regularly write articles on [https://explore-intellect.com/blog](https://explore-intellect.com/blog)
 
 - 📫 How to reach me **thuchitran@gmail.com**
 
