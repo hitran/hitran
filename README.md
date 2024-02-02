@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Web Development, Cloud Computing**
 
-- 👨‍💻 All of my projects are available at [https://explore-intellect.com/](https://explore-intellect.com/)
+- 👨‍💻 All of my projects are available at [https://explore-intellect.com/](https://explore-intellect.com/projects)
 
 - 📝 I regularly write articles on [https://explore-intellect.com/blogs](https://explore-intellect.com/blogs)
 
